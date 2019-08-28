@@ -1,0 +1,86 @@
+{
+    "products":
+    [
+        {
+            "name":"Apple Watch Series 4",
+            "brand":"Apple",
+            "color":"Black",
+            "price":"1479 AED",
+            "imgURL":"products/appleWatch.png",
+            "description":"Apple Watch Series 4 (GPS + Cellular) requires an iPhone 6 or later with iOS 12 or later. Apple Watch Series 4 (GPS) requires an iPhone 5s or later with iOS 12 or later. Wireless service plan required for cellular service. Apple Watch and iPhone service provider must be the same. Not available with all service providers. Not all service providers support enterprise accounts or prepaid plans; check with your employer and service provider. Some legacy plans may not be compatible. Roaming is not available. Contact your service provider for more details."
+        },
+        {
+            "name":"AirPods Wireless Earphones",
+            "brand":"Apple",
+            "color":"White",
+            "price":"529 AED",
+            "imgURL":"products/airpods.png",
+            "description":"The new AirPods — complete with Wireless Charging Case — deliver the wireless headphone experience, reimagined. Just pull them out of the case and they’re ready to use with your iPhone, Apple Watch, iPad, or Mac."   
+        },
+        {
+            "name":"Instax Mini 9 Instant Film Camera",
+            "brand":"Instax",
+            "color":"Green",
+            "price":"228 AED",
+            "imgURL":"products/insta.png",
+            "description":"Fujifilm Instax Mini 9 Will Be Your Perfect Travel Companion. This Instant Film Camera Is Packed With Various Useful Features.If You Are Looking For A Compact And Handy Camera, Then This Fujifilm Instax Mini 9 Instant Film Camera Is The Perfect Pick For You. It Has Several Amazing Features, Which Will Make Your Photography Sessions Fun And Exciting. This Instant Film Camera Features A Two Element Lens. The Cherry On The Top Is That It Lets You Get On-The-Spot, Credit-Card Sized Photos In A Jiffy. It Has A Maximum Aperture Of F/12.7, Which Is Typically More Than Enough For Everyday Photography Needs. The Instax Mini 9 Camera Features A Compact Design, Which Makes It Easy To Be Carried Anywhere And Everywhere With You. It Sports An Elegant Ice Blue Finish That Gives It A Head-Turning Look. The Fujifilm Instax Mini 9 Camera Is The Perfect Tool For Events, Parties, Festivals, And Casual Days Out. Key Features Picture Size62 X 46Mm Lens2 Components, 2 Elements, F = 60 Mm, 1:12.7 Viewfinderreal Image Finder, 0.37X, With Target Spot Focusing0.6M - ∞ Shuttershutter Speed: 1/60 Sec. Exposure Controlmanual Switching System (Led Indicator In Exposure Meter) Auto Power Off Time5 Min. Ergonomic Build This Instant Film Camera Flaunts A Sleek And Lightweight Design. This Analog Camera Is Simple To Use And Easy To Maintain. All The More, This Camera Is Painted In A Vivacious Shade That Gives It A Contemporary Look. Handy Features The Fujifilm Instax Camera Features A Two Element Lens With A Maximum Aperture Of F/12.7. The Built-In Metering Function Of This Camera Provides An Exposure Suggestion Via The Led Lights On The Lens Barrel. You Can Adjust The Aperture By Turning The Lens Ring To The Appropriate Icon. It Has A Fixed Shutter Speed Of 1/60S, Which Lets You Capture Beautiful Hand-Held Images. Powerful Performance This Instant Film Camera Is Equipped With A Pair Of Aa Batteries That Lets You Capture Up To 100 Shots On A Single Full Charge. It Arrives With A Close-Up Lens Attachment That Allows You To Click The Pictures Of The Subject As Close As 35Cm. The Icing On The Cake Is The High-Key Mode That Lets You Capture Images In A High-Quality With A Softer Impression. Also, The Instax Mini 9 Camera Automatically Determines The Best Brightness For Clicking Pictures And Updates You About The Same By Lighting The Corresponding Lamp."   
+        },
+        {
+            "name":"Flip 4 waterproof portable bluetooth speaker",
+            "brand":"JBL",
+            "color":"Black",
+            "price":"251 AED",
+            "imgURL":"products/speaker.png",
+            "description":"JBL Flip 4 is the next generation in the award-winning Flip series; it is a portable Bluetooth speaker that delivers surprisingly powerful stereo sound. This compact speaker is powered by a 3000mAh rechargeable Li-ion battery that offers up to 12 hours of continuous, high-quality audio playtime. Sporting durable, waterproof fabric materials that are available in 6 vibrant colors, Flip 4 is the all purpose, all weather companion that takes the party everywhere. It also features a built-in noise and echo cancelling speakerphone for crystal clear conference calls, and JBL Connect+ technology that can wirelessly links more than 100 JBL Connect+ enabled speakers together to amplify the listening experience. With a simple button press, you can activate and talk to Siri or Google Now from your JBL Flip 4."   
+        },
+        {
+            "name":"Switch Console",
+            "brand":"Nintendo",
+            "color":"Black",
+            "price":"1144 AED",
+            "imgURL":"products/switch.png",
+            "description":"Nintendo Switch is designed to go wherever you do, transforming from home console to portable system in a snap.So you get more time to play the games you love, however you like."   
+        },
+        {
+            "name":"Renew In-Season TR 9 Sneakers",
+            "brand":"Nike",
+            "color":"Purple",
+            "price":"399 AED",
+            "imgURL":"products/sneaker.png",
+            "description":"The Nike Renew In-Season TR 9 Women's Training Shoe cranks it up a notch a flexible outsole that moves with your foot. Dual-density underfoot cushioning and midfoot lockdown make it ideal for circuit training and cardio-heavy workouts."   
+        },
+        {
+            "name":"Classic Sweatpants Medium Grey Heather",
+            "brand":"Reebok",
+            "color":"Gray",
+            "price":"103 AED",
+            "imgURL":"products/sweatpants.png",
+            "description":"Rock out in total comfort in these sweatpants. The tapered design cuts bulk to let you move with ease while staying fashion forward. Ribbed cuffs lock in around the ankles for a secure fit."   
+        },
+        {
+            "name":"Cropped Hoodie Black",
+            "brand":"Adidas",
+            "color":"Black",
+            "price":"325 AED",
+            "imgURL":"products/hoddie.png",
+            "description":"An evolved take on the Trefoil logo, this hoodie interrupts the celebrated icon with fresh style. The sporty pullover is detailed with zips on the cuffs. It's cut for a cropped fit from soft French terry."   
+        },
+        {
+            "name":"WTS Back2bas 3s Tracksuit Glow",
+            "brand":"Adidas",
+            "color":"Blue",
+            "price":"229 AED",
+            "imgURL":"products/blue.png",
+            "description":"Taking cues from the archive, this track suit brings an athletic look off the field. It's geared for everyday comfort with a sleek tricot build. Signature 3-Stripes accent the sleeves and sides."   
+        },
+        {
+            "name":"C40 3 Stripes Cap",
+            "brand":"Adidas",
+            "color":"White",
+            "price":"80 AED",
+            "imgURL":"products/cap.png",
+            "description":" "   
+        }
+    ]
+    
+}
